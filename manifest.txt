@@ -1,1 +1,4 @@
-Paste.dll|c729ca5de8d048dfcb1be099a8edc06f
+armorgrp.dat|b2bf64eff8ff27ec216b3ebdecdfce16
+etcitemgrp.dat|2e8e5f63989c10f05fbeb500a9c738c9
+itemname-e.dat|ae32359e130a3e7ba7a58f8f58e8c988
+weapongrp.dat|585fde52ab734ac16e5cf7432155a317
